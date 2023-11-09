@@ -14,6 +14,7 @@ plotly-express = "*"
 nbformat = ">=4.2.0"
 python-dotenv = "*"
 openpyxl = "*"
+jinja2 = "*"
 
 [dev-packages]
 
