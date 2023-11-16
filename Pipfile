@@ -15,8 +15,11 @@ nbformat = ">=4.2.0"
 python-dotenv = "*"
 openpyxl = "*"
 jinja2 = "*"
+dash = "*"
+dash-bootstrap-components = "*"
+py-mon = "*"
 
 [dev-packages]
 
 [requires]
-python_version = "3.10"
+python_version = "3.11"
